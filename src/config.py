@@ -73,6 +73,10 @@ def get_silver_file(tabla: str) -> Path:
     """Retorna la ruta del archivo CSV en 02_silver."""
     return SILVER_PATH / f"{tabla}.csv"
 
+def get_gold_file(tabla: str) -> Path:
+    """Retorna la ruta del archivo CSV en 03_gold."""
+    return GOLD_PATH / f"{tabla}.csv"
+
 def listar_tablas_raw() -> list:
     """Lista todas las tablas disponibles en 01_raw."""
     if not RAW_PATH.exists():

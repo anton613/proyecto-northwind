@@ -8,6 +8,7 @@ from .config import (
     TABLAS_CORE,
     get_raw_file,
     get_silver_file,
+    get_gold_file,
     listar_tablas_raw,
     listar_tablas_silver,
     verificar_extraccion

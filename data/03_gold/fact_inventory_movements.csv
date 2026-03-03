@@ -1,0 +1,103 @@
+sk_inventory,sk_date,sk_product,transaction_type,quantity,is_backorder
+1,20060322,27,Purchased,75,False
+2,20060322,24,Purchased,40,False
+3,20060322,19,Purchased,100,False
+4,20060322,20,Purchased,120,False
+5,20060322,21,Purchased,80,False
+6,20060322,5,Purchased,100,False
+7,20060322,6,Purchased,40,False
+8,20060322,7,Purchased,40,False
+9,20060322,8,Purchased,40,False
+10,20060322,9,Purchased,40,False
+11,20060322,10,Purchased,20,False
+12,20060322,11,Purchased,40,False
+13,20060322,12,Purchased,20,False
+14,20060322,14,Purchased,120,False
+15,20060322,15,Purchased,40,False
+16,20060322,17,Purchased,100,False
+17,20060322,18,Purchased,40,False
+18,20060322,25,Purchased,20,False
+19,20060322,26,Purchased,60,False
+20,20060322,2,Purchased,100,False
+21,20060322,3,Purchased,40,False
+22,20060322,4,Purchased,40,False
+23,20060322,22,Purchased,40,False
+24,20060322,23,Purchased,80,False
+25,20060322,1,Purchased,40,False
+26,20060322,13,Purchased,60,False
+27,20060322,16,Purchased,100,False
+28,20060322,28,Purchased,125,False
+29,20060322,27,Sold,30,False
+30,20060322,6,Sold,10,False
+31,20060322,18,Sold,10,False
+32,20060322,27,Sold,10,False
+33,20060322,1,Sold,15,False
+34,20060322,16,Sold,20,False
+35,20060322,10,Sold,20,False
+36,20060322,17,Sold,10,False
+37,20060322,7,Sold,17,False
+38,20060324,28,Purchased,200,False
+39,20060324,28,Sold,200,True
+40,20060324,17,Purchased,100,False
+41,20060324,17,Sold,100,True
+42,20060324,16,Purchased,300,False
+43,20060324,16,Sold,300,True
+44,20060324,15,Purchased,200,False
+45,20060324,15,Sold,200,True
+46,20060324,10,Purchased,30,False
+47,20060324,10,Sold,30,True
+48,20060324,13,Purchased,100,False
+49,20060324,13,Sold,100,True
+50,20060324,5,Sold,10,False
+51,20060324,3,Sold,10,False
+52,20060324,27,On Hold,20,False
+53,20060324,28,On Hold,50,False
+54,20060324,1,On Hold,25,False
+55,20060324,16,On Hold,25,False
+56,20060324,28,On Hold,25,False
+57,20060324,14,Sold,50,False
+58,20060324,12,Sold,20,False
+59,20060324,4,Sold,25,False
+60,20060324,15,Sold,30,False
+61,20060324,14,Sold,30,False
+62,20060330,13,On Hold,12,False
+63,20060330,13,On Hold,10,False
+64,20060330,13,On Hold,1,False
+65,20060403,17,Sold,10,False
+66,20060404,21,Purchased,100,False
+67,20060404,21,Sold,100,True
+68,20060404,13,Purchased,50,False
+69,20060404,16,Purchased,250,False
+70,20060404,16,On Hold,300,True
+71,20060404,7,Purchased,25,False
+72,20060404,7,Sold,25,True
+73,20060404,13,Purchased,300,False
+74,20060404,13,Sold,300,True
+75,20060404,10,Purchased,25,False
+76,20060404,10,Sold,10,True
+77,20060404,10,Purchased,10,False
+78,20060404,10,Sold,25,True
+79,20060404,24,Purchased,50,False
+80,20060404,24,Sold,50,True
+81,20060404,15,Purchased,50,False
+82,20060404,15,Sold,50,True
+83,20060404,13,Sold,87,False
+84,20060404,18,Sold,30,False
+85,20060404,6,Sold,30,False
+86,20060404,9,Sold,40,False
+87,20060404,5,Sold,90,False
+88,20060404,3,Sold,30,False
+89,20060404,17,Sold,40,False
+90,20060404,17,Sold,40,False
+91,20060404,15,Sold,10,False
+92,20060404,16,Sold,5,False
+93,20060404,14,Sold,40,False
+94,20060404,7,Sold,20,False
+95,20060404,27,Sold,15,False
+96,20060404,25,Sold,20,False
+97,20060404,24,Sold,40,False
+98,20060404,2,Sold,50,False
+99,20060404,7,Sold,3,False
+100,20060404,11,Sold,40,False
+101,20060404,19,Sold,40,False
+102,20060425,20,On Hold,110,False
