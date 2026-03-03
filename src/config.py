@@ -79,6 +79,12 @@ def listar_tablas_raw() -> list:
         return []
     return [f.stem for f in RAW_PATH.glob("*.csv")]
 
+def listar_tablas_silver() -> list:
+    """Lista todas las tablas disponibles en 02_silver."""
+    if not SILVER_PATH.exists():
+        return []
+    return [f.stem for f in SILVER_PATH.glob("*.csv")]
+
 def verificar_extraccion() -> dict:
     """Verifica qué tablas están extraídas vs las esperadas."""
     extraidas = set(listar_tablas_raw())

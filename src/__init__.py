@@ -9,5 +9,6 @@ from .config import (
     get_raw_file,
     get_silver_file,
     listar_tablas_raw,
+    listar_tablas_silver,
     verificar_extraccion
 )
